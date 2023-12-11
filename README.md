@@ -5,7 +5,7 @@ In this project, I have tried to implement the Random Module of the Python langu
 Python Random module is an in-built module of Python that is used to generate random numbers in Python. These are pseudo-random numbers means they are not truly random. This module can be used to perform random actions such as generating random numbers, printing random a value for a list or string, etc.
 
 # Images of the Output:
-
+![](images/output.png)
 # Sources:
 1. Google
 2. YouTube
